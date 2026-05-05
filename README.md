@@ -1,9 +1,9 @@
 # Hedge Fund Risk Modeling & Semi-Automated Trading System
 
 ## Team Information
-- **Team Name**: [Team Name]
-- **All-Junior**: [Year]
-- **All-Female Team**: [Yes/No]
+- **Team Name**:  Name
+- **All-Junior**: Yes
+- **All-Female Team**: No
 
 ## Architecture Overview
 
