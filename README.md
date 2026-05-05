@@ -2,7 +2,7 @@
 
 ## Team Information
 - **Team Name**:  Name
-- **All-Junior**: Yes
+- **Year**: 1st
 - **All-Female Team**: No
 
 ## Architecture Overview
